@@ -1,11 +1,13 @@
 {
   "spfc": {
     "urlLogo" : "linkaqui",
-    "nomeGeral" : "Torcida .net"
+    "nomeGeral" : "Torcida .net",
+    "avatarName" : "https://ui-avatars.com/api/?name="
   },
   "flamengo": {
     "urlLogo" : "linkaqui",
-    "nomeGeral" : "Torcida Flamengo"
+    "nomeGeral" : "Torcida Flamengo",
+    "avatarName" : "https://ui-avatars.com/api/?name="
   }
 }
   
