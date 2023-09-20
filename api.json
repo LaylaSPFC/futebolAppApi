@@ -1,9 +1,14 @@
 {
   "spfc": {
+    "urlLogo" : "https://i.imgur.com/R12Kvj3.png",
+    "nomeGeral" : "spfc.net",
+    "avatarName" : "https://ui-avatars.com/api/?name="
+  },
+  "spfco": {
     "urlLogo" : "https://i.imgur.com/xpErwvE.png",
     "nomeGeral" : "Torcida .net",
     "avatarName" : "https://ui-avatars.com/api/?name="
-  },
+  }, 
   "flamengo": {
     "urlLogo" : "linkaqui",
     "nomeGeral" : "Torcida Flamengo",
