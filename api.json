@@ -1,9 +1,12 @@
 {
   "spfc": {
-    "urlLogo" : "https://i.imgur.com/R12Kvj3.png",
-    "urlLogoTabela": "https://i.imgur.com/cqXC1PP.png",
-    "nomeGeral" : "spfc.net",
-    "avatarName" : "https://ui-avatars.com/api/?name="
+    "dev": 1,
+    "iconApp" : "logo2",
+    "urlLogo" : "https://i.imgur.com/cqXC1PP.png",
+    "urlLogoTabela" : "https://i.imgur.com/jIeHvsp.png",
+    "nomeGeral" : "SPFC.net",
+    "nomeHomeJogo" : "São Paulo",
+    "avatarName" : "https://ui-avatars.com/api/?name="    
   },
   "spfco": {
     "urlLogo" : "https://i.imgur.com/xpErwvE.png",
